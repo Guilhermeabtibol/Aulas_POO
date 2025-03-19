@@ -2,7 +2,7 @@ public class Moto extends Veiculo{
 
     public int cilindradas;
 
-    public void calcIpva() {
+    public void calcIpva() { // polimorfismo de sobreposicao
         if(cilindradas <= 160) {
             ipva = valor * 2/100;
         } else if (cilindradas <= 300) {
