@@ -1,6 +1,6 @@
 public class Veiculo {
     public String modelo;
-    public String marca;
+    public Marca marca;
     public String cor;
     public Double valor;
     public Double ipva;
