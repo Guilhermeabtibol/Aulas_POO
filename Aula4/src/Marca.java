@@ -1,4 +1,5 @@
 public class Marca {
+<<<<<<< HEAD
     private String nome;
 
     Marca(){}
@@ -20,3 +21,14 @@ public class Marca {
     }
 
 }
+=======
+     String nome;
+
+     Marca(){}
+
+    // construtor
+    Marca(String nome) {
+         this.nome = nome;
+    }
+}
+>>>>>>> 288ad1d9a367dfc32f27d8529441b9bfa5e2494d

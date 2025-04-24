@@ -1,4 +1,5 @@
 public class Veiculo {
+<<<<<<< HEAD
     private String modelo;
     private int ano;
     private Double valor;
@@ -50,6 +51,21 @@ public class Veiculo {
             ipva = valor * 2/100;
         } else {
             ipva = valor * 3/100;
+=======
+    public String modelo;
+    public Marca marca;
+    public String cor;
+    public Double valor;
+    public Double ipva;
+
+    public void calcIpva() {
+        if ( valor <= 40000.0) {
+            ipva = valor *2/100;
+        } else if(valor<70000.0) {
+            ipva = valor * 3/100;
+        } else {
+            ipva = valor * 5 / 100;
+>>>>>>> 288ad1d9a367dfc32f27d8529441b9bfa5e2494d
         }
     }
 }
