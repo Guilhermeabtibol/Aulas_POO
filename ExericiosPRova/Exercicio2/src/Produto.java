@@ -1,0 +1,43 @@
+import java.text.DecimalFormat;
+
+public class Produto {
+    private String nome;
+    private double preco;
+    private String codigo;
+
+    public Produto() {}
+    public Produto(String nome, double preco, String codigo) {
+        this.nome = nome;
+        this.preco = preco;
+        this.codigo = codigo;
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
+    }
+
+    public double getPreco() {
+        return preco;
+    }
+
+    public void setPreco(double preco) {
+        this.preco = preco;
+    }
+
+    public String getCodigo() {
+        return codigo;
+    }
+
+    public void setCodigo(String codigo) {
+        this.codigo = codigo;
+    }
+
+    public String exibirProdutos() {
+        DecimalFormat df = new DecimalFormat("#, ##0.00");
+        return "Código: " + getCodigo() + " | Produto: " + nome + " Preco: " + df.format(getPreco());
+    }
+}

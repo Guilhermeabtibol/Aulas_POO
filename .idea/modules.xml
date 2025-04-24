@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aula1/Aula1.iml" filepath="$PROJECT_DIR$/Aula1/Aula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula2/Aula2.iml" filepath="$PROJECT_DIR$/Aula2/Aula2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula3/Aula3.iml" filepath="$PROJECT_DIR$/Aula3/Aula3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula4/Aula4.iml" filepath="$PROJECT_DIR$/Aula4/Aula4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aula5/Aula5.iml" filepath="$PROJECT_DIR$/Aula5/Aula5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/BancoGui/BancoGui.iml" filepath="$PROJECT_DIR$/Exercicios/BancoGui/BancoGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExericiosPRova/Exercicio1/Exercicio1.iml" filepath="$PROJECT_DIR$/ExericiosPRova/Exercicio1/Exercicio1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExericiosPRova/Exercicio2/Exercicio2.iml" filepath="$PROJECT_DIR$/ExericiosPRova/Exercicio2/Exercicio2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExericiosPRova/Exercicio3/Exercicio3.iml" filepath="$PROJECT_DIR$/ExericiosPRova/Exercicio3/Exercicio3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExericiosPRova/Exercicio4/Exercicio4.iml" filepath="$PROJECT_DIR$/ExericiosPRova/Exercicio4/Exercicio4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExericiosPRova/ExericiosPRova.iml" filepath="$PROJECT_DIR$/ExericiosPRova/ExericiosPRova.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/POO.iml" filepath="$PROJECT_DIR$/.idea/POO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exercicios/SistemaBancario/SistemaBancario.iml" filepath="$PROJECT_DIR$/Exercicios/SistemaBancario/SistemaBancario.iml" />
+    </modules>
+  </component>
+</project>
